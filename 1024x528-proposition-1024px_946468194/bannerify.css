@@ -1,0 +1,371 @@
+@charset "UTF-8";
+
+body,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+#banner4_345298952 {
+	background-color: #ffffff;
+	border: 0;
+	box-sizing: border-box;
+	cursor: default;
+	display: block;
+	height: 528px;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+	z-index: 1;
+}#banner4_345298952 div {
+	position: absolute;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+#banner4_345298952 img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+#b_1_banner4_345298952 {
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+
+#img_1_banner4_345298952 {
+	width: 1024px;
+	height: 528px;
+}
+
+#img_1_banner4_345298952.bnfy-enter {
+	-webkit-animation: none 500ms 1800ms ease 1 both;
+	animation: none 500ms 1800ms ease 1 both;
+}
+
+#b_2_banner4_345298952 {
+	top: 0px;
+	left: 252px;
+	z-index: 2;
+}
+
+#img_2_banner4_345298952 {
+	width: 296px;
+	height: 198px;
+}
+
+#img_2_banner4_345298952.bnfy-enter {
+	-webkit-animation: rotate-in-2-ccw 800ms 3600ms ease 1 both;
+	animation: rotate-in-2-ccw 800ms 3600ms ease 1 both;
+}
+
+#b_3_banner4_345298952 {
+	top: 504px;
+	left: 0px;
+	z-index: 3;
+}
+
+#img_3_banner4_345298952 {
+	width: 434px;
+	height: 14px;
+}
+
+#img_3_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 500ms 1200ms ease 1 both;
+	animation: fade-in 500ms 1200ms ease 1 both;
+}
+
+#b_4_banner4_345298952 {
+	top: 397px;
+	left: 56px;
+	z-index: 4;
+}
+
+#img_4_banner4_345298952 {
+	width: 267px;
+	height: 101px;
+}
+
+#img_4_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 500ms 4100ms ease 1 both;
+	animation: fade-in 500ms 4100ms ease 1 both;
+}
+
+#b_5_banner4_345298952 {
+	top: 440px;
+	left: 262px;
+	z-index: 5;
+}
+
+#img_5_banner4_345298952 {
+	width: 184px;
+	height: 40px;
+}
+
+#img_5_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in-left 1200ms 4500ms ease 1 both;
+	animation: fade-in-left 1200ms 4500ms ease 1 both;
+}
+
+#b_6_banner4_345298952 {
+	top: 13px;
+	left: 56px;
+	z-index: 6;
+}
+
+#img_6_banner4_345298952 {
+	width: 328px;
+	height: 370px;
+}
+
+#img_6_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 500ms 300ms ease 1 both;
+	animation: fade-in 500ms 300ms ease 1 both;
+}
+
+#b_7_banner4_345298952 {
+	top: 109px;
+	left: 357px;
+	z-index: 7;
+}
+
+#img_7_banner4_345298952 {
+	width: 12px;
+	height: 12px;
+}
+
+#img_7_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 500ms 0ms ease 1 both;
+	animation: fade-in 500ms 0ms ease 1 both;
+}
+
+#b_8_banner4_345298952 {
+	top: 63px;
+	left: 341.5px;
+	z-index: 8;
+}
+
+#img_8_banner4_345298952 {
+	width: 95px;
+	height: 106px;
+}
+
+#img_8_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 800ms 3800ms ease 1 both;
+	animation: fade-in 800ms 3800ms ease 1 both;
+}
+
+#b_9_banner4_345298952 {
+	top: 98px;
+	left: 354.5px;
+	z-index: 9;
+}
+
+#img_9_banner4_345298952 {
+	width: 17px;
+	height: 30px;
+}
+
+#img_9_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 800ms 4000ms ease 1 both;
+	animation: fade-in 800ms 4000ms ease 1 both;
+}
+
+#b_10_banner4_345298952 {
+	top: 19px;
+	left: 132px;
+	z-index: 10;
+}
+
+#img_10_banner4_345298952 {
+	width: 177px;
+	height: 176px;
+}
+
+#img_10_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 500ms 300ms ease 1 both;
+	animation: fade-in 500ms 300ms ease 1 both;
+}
+
+#b_11_banner4_345298952 {
+	top: 19px;
+	left: 132px;
+	z-index: 11;
+}
+
+#img_11_banner4_345298952 {
+	width: 177px;
+	height: 176px;
+}
+
+#img_11_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 700ms 1000ms ease 1 both;
+	animation: fade-in 700ms 1000ms ease 1 both;
+}
+
+#b_12_banner4_345298952 {
+	top: 19px;
+	left: 132px;
+	z-index: 12;
+}
+
+#img_12_banner4_345298952 {
+	width: 177px;
+	height: 176px;
+}
+
+#img_12_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 800ms 1500ms ease 1 both;
+	animation: fade-in 800ms 1500ms ease 1 both;
+}
+
+#b_13_banner4_345298952 {
+	top: 19px;
+	left: 132px;
+	z-index: 13;
+}
+
+#img_13_banner4_345298952 {
+	width: 177px;
+	height: 176px;
+}
+
+#img_13_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 800ms 2100ms ease 1 both;
+	animation: fade-in 800ms 2100ms ease 1 both;
+}
+
+#b_14_banner4_345298952 {
+	top: 11px;
+	left: 128px;
+	z-index: 14;
+}
+
+#img_14_banner4_345298952 {
+	width: 185px;
+	height: 184px;
+}
+
+#img_14_banner4_345298952.bnfy-enter {
+	-webkit-animation: fade-in 800ms 2600ms ease 1 both;
+	animation: fade-in 800ms 2600ms ease 1 both;
+}
+
+@media (print), (prefers-reduced-motion: reduce) {
+	.banner__element {
+		-webkit-animation-duration: 1ms !important;
+		animation-duration: 1ms !important;
+		-webkit-transition-duration: 1ms !important;
+		transition-duration: 1ms !important;
+		-webkit-animation-iteration-count: 1 !important;
+		animation-iteration-count: 1 !important;
+	}
+}
+@-webkit-keyframes simple-show {
+	0% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: visible;
+	}
+}
+@keyframes simple-show {
+	0% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: visible;
+	}
+}
+@-webkit-keyframes simple-hide {
+	0% {
+		visibility: visible;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+@keyframes simple-hide {
+	0% {
+		visibility: visible;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+
+@-webkit-keyframes rotate-in-2-ccw {
+	0% {
+		-webkit-transform: rotate(45deg);
+		transform: rotate(45deg);
+		opacity: 0
+	}
+	to {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);
+		opacity: 1
+	}
+}
+
+@keyframes rotate-in-2-ccw {
+	0% {
+		-webkit-transform: rotate(45deg);
+		transform: rotate(45deg);
+		opacity: 0
+	}
+	to {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);
+		opacity: 1
+	}
+}
+
+@-webkit-keyframes fade-in {
+	0% {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
+
+@keyframes fade-in {
+	0% {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
+
+@-webkit-keyframes fade-in-left {
+	0% {
+		-webkit-transform: translateX(-50px);
+		transform: translateX(-50px);
+		opacity: 0
+	}
+	to {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+		opacity: 1
+	}
+}
+
+@keyframes fade-in-left {
+	0% {
+		-webkit-transform: translateX(-50px);
+		transform: translateX(-50px);
+		opacity: 0
+	}
+	to {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+		opacity: 1
+	}
+}
